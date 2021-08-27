@@ -12,6 +12,12 @@ const Menu = (props) => {
                         {/*<a href="/"></a>*/}
                     </li>
                     <li>
+                        <Link to="/param/1">Param #01</Link>
+                    </li>
+                    <li>
+                        <Link to="/param/legal">Param #02</Link>
+                    </li>
+                    <li>
                         <Link to="/about">Sobre</Link>
                          {/*<a href="/about">Sobre</a>*/}
                     </li>
