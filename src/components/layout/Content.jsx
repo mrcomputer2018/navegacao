@@ -1,9 +1,9 @@
-import Recat from "react"
+import React from "react"
 
 const Content = (props) => {
     return (
         <main className="Content">
-            Componente Content
+            <h1>Componente Content</h1>
         </main>
     )
 }
